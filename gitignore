@@ -1,0 +1,16 @@
+# Rendered frames
+frames/
+
+# Rendered video files
+*.mp4
+*.mov
+*.avi
+*.gif
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor metadata
+.vscode/
+.idea/
